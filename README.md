@@ -6,20 +6,20 @@ The Secure Registration and Login System Project in C++ is a comprehensive open-
 
 ## Key Features
 
-1. **User Registration:** Utilize switch case statements to allow users to register by entering essential details such as username, email, and password.
+1. User Registration: Utilize switch case statements to allow users to register by entering essential details such as username, email, and password.
 
-2. **User Login:** Implement a secure login mechanism using C++ to validate user credentials, ensuring that only authorized users gain access.
+2. User Login: Implement a secure login mechanism using C++ to validate user credentials, ensuring that only authorized users gain access.
 
-3. **Password Management:** Demonstrate secure password storage and provide a mechanism for users to change their passwords.
+3. Password Management: Demonstrate secure password storage and provide a mechanism for users to change their passwords.
 
-4. **File Handling:** Use C++ file handling operations to manage user data storage and retrieval, ensuring data persistence between sessions.
+4. File Handling: Use C++ file handling operations to manage user data storage and retrieval, ensuring data persistence between sessions.
 
-5. **Change Password:** Enable users to change their passwords through C++ programming, adding a layer of user-controlled security.
+5. Change Password: Enable users to change their passwords through C++ programming, adding a layer of user-controlled security.
 
 ## Usage
 
-- **User Registration:** Launch the application and follow the prompts to register a new user account with the required information.
+- User Registration: Launch the application and follow the prompts to register a new user account with the required information.
 
-- **User Login:** Authenticate users by entering their username and password, ensuring secure access to the application.
+- User Login: Authenticate users by entering their username and password, ensuring secure access to the application.
 
-- **Password Management:** Access the password management feature to change your password if desired.
+- Password Management: Access the password management feature to change your password if desired.
